@@ -1,0 +1,21 @@
+{
+	"author": "",
+	"dependencies": {
+		"koa": "^2.13.4",
+		"vue": "^3.2.31"
+	},
+	"description": "",
+	"devDependencies": {
+		"eslint": "^7.32.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.25.2"
+	},
+	"keywords": [],
+	"license": "ISC",
+	"main": "index.js",
+	"name": "mini-vite",
+	"scripts": {
+		"dev": "node ./vite/index.js"
+	},
+	"version": "1.0.0"
+}
